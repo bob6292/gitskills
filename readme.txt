@@ -1,1 +1,1 @@
-Creating a n branch is quick
+Creating a new branch is quick and vary easy
